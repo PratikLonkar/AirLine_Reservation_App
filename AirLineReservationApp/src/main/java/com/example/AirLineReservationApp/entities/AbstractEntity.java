@@ -1,6 +1,6 @@
 package com.example.AirLineReservationApp.entities;
 
-import jakarta.persistence.MappedSuperclass;
+import javax.persistence.MappedSuperclass;
 
 @MappedSuperclass
 public class AbstractEntity {

@@ -3,7 +3,9 @@ package com.example.AirLineReservationApp.entities;
 import java.sql.Timestamp;
 import java.util.Date;
 
-import jakarta.persistence.Entity;
+import javax.persistence.Entity;
+
+
 
 @Entity
 public class Flight extends AbstractEntity {

@@ -1,6 +1,6 @@
 package com.example.AirLineReservationApp.entities;
 
-import jakarta.persistence.Entity;
+import javax.persistence.Entity;
 
 @Entity
 public class Passenger extends AbstractEntity {
