@@ -5,6 +5,7 @@ import java.util.Date;
 
 import jakarta.persistence.Entity;
 
+
 @Entity
 public class Flight extends AbstractEntity {
 	

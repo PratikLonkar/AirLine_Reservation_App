@@ -1,5 +1,6 @@
 package com.example.AirLineReservationApp.entities;
 
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.OneToOne;
 
