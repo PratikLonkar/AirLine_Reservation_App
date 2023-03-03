@@ -1,10 +1,7 @@
 package com.example.AirLineReservationApp.entities;
 
-
-import javax.persistence.Entity;
-import javax.persistence.OneToOne;
-
-
+import jakarta.persistence.Entity;
+import jakarta.persistence.OneToOne;
 
 @Entity
 public class Reservation extends AbstractEntity {
